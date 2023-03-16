@@ -200,7 +200,7 @@ Partial Class Form1
         ClientSize = New Size(2252, 1304)
         Controls.Add(searchTab)
         Name = "Form1"
-        Text = "Form1"
+        Text = "VIMS"
         searchTab.ResumeLayout(False)
         TabPageSearch.ResumeLayout(False)
         TabPageSearch.PerformLayout()
